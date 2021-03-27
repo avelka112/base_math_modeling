@@ -1,2 +1,28 @@
 print('Hello world!')
-
+print(3)
+print(3+4)
+print(3,4)
+print(3**4)
+print(4/3)
+print(14//3)
+print(4%3)
+s=3+4
+print(s)
+s=5
+print(s)
+type(3)
+print(type(3))
+type(3.4)
+print(type(3.4))
+print(type('Молодец'))
+a='Молодец'
+print(type(a))
+a=['Молодец',1,'Круто',6,8]
+print(type(a))
+print(type(True))
+print(type(False))
+print(a)
+print(type(a))
+a=input('Введите значение a:')
+print(type(a))
+a=int(input(a))

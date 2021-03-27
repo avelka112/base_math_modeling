@@ -1,0 +1,15 @@
+a=[1,3,7]
+print(a[0])
+print(a[-1])
+b=[2,45,12]
+print(b[0])
+c=a+b
+print(c)
+print(a*3)
+s=[]
+s.append(10)
+print(s)
+x=[]
+x.append(a)
+print(x)
+print(len(a))
